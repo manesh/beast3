@@ -2,6 +2,7 @@ Beast3 is an attempt to build a Starfleet OS: a local-first operating layer for 
 
 The core idea is simple: humanity already has enormous creative and technical power, but too much of it disappears into one-off outputs, fragile scripts, private platforms, and workflows no one can reproduce. Beast3 aims to preserve the working parts -- the generator, the lineage, the parameters, the evidence, the machine context, and the human judgment -- so that useful systems can survive, spread, and improve over time.
 
+---
 
 *A vision of the future*
 

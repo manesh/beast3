@@ -24,3 +24,11 @@ The core idea is simple: humanity already has enormous creative and technical po
 *I’m aiming at maximizing my joy, and that means some kind of Star Trek, star fleet future, even if that means that like Gene Roddenberry, called "The Great God Bird" by some, a big inspiration to me, I don’t live to see it, that happy unified world utopia.*
   
 *But what the Heaven, might as well give it a shot.*
+
+---
+
+I am actively working on [beast2](https://github.com/manesh/beast2/).
+
+First phase (in progress): artifact and lineage layer for ai generated outputs (llm and image/video gen).
+
+Slogan: *"With beast2, every artifact remembers how it's made."*
